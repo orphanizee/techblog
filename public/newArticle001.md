@@ -1,10 +1,10 @@
 ---
 title: 【2024年版】Raspberry Pi 最適化設定
 tags:
-  - 'RaspberryPi'
+  - RaspberryPi
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-11-24T22:41:02+09:00'
+id: 51852c78b0c054516d58
 organization_url_name: null
 slide: false
 ignorePublish: false
